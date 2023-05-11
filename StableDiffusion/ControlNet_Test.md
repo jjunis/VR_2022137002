@@ -17,3 +17,8 @@ Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2463361645, Size: 512x512, Mode
 ![image](https://github.com/jjunis/VR_2022137002/blob/main/StableDiffusion/00003-3053251619.png?raw=true)
 
 > make her hair color red
+
+# OpenPose
+
+![image](https://github.com/jjunis/VR_2022137002/blob/main/StableDiffusion/OpenPose_before.png?raw=true)
+![image](https://github.com/jjunis/VR_2022137002/blob/main/StableDiffusion/OpenPose_Result.png?raw=true)
